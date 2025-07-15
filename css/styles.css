@@ -282,6 +282,12 @@ img {
   text-align: center;
 }
 
+.team__item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .team__item-wrap {
   padding: 32px 0;
 }
@@ -330,7 +336,9 @@ img {
 }
 
 .portfolio__item img {
-  margin: 0 auto;
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .portfolio__item-wrap {
